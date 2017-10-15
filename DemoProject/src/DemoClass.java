@@ -5,7 +5,7 @@ public class DemoClass {
 		// TODO Auto-generated method stub
 		System.out.println("New Test Project with Second changes suggested by CEO");
 
-		
+		System.out.println("Starting the projects");
 
 		
 		int a=0, b=0;
