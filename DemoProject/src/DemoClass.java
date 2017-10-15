@@ -25,7 +25,7 @@ System.out.println("New Test Project with Second changes suggested by CEO");
 		// TODO Auto-generated method stub
 		System.out.println(("multiplication of two numbers   "+(a*b)));
 System.out.println("New Test Project with Second changes suggested by CEO");
-
+System.out.println("Multiplication completed successfully");
 	}
 
 }
