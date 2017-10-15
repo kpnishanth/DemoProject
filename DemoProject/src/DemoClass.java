@@ -7,6 +7,7 @@ public class DemoClass {
 
 
 		System.out.println("Test New changes");
+		System.out.println("Starting the projects");
 
 		
 		int a=0, b=0;
